@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>The Portfolio of Aarnav</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+    <div class="header">
+        <h1 style="text-align:center">The Portfolio of Aarnav</h1>
+       
+            <div class="links">
+                <a href="aboutMe.html">About Me</a>
+                <a href="projects.html">Projects</a>
+            </div>
+    </div>
+
+
+        
+    
+
+
+
+    <h2 style="text-align:center;margin-top:200px;color:orange">The things I have done in Whitehat Jr so far</h2>
+    <p style="text-align:center;color:blue">So far, I have done a ping-pong game, t-rex runner, angry birds game, racing
+        game (with firebase), and a silicon valley project.</p>
+    
+    <div class="grid">
+        <div class="gridItem1">
+            <a href="https://studio.code.org/projects/gamelab/b8EZQ08eQh6lQg6T9FU_Rd05M1Z6r9EJEyIU1p8c090/edit"><img
+                src="https://via.placeholder.com/300" /></a>
+            <p>Ping Pong Game</p>
+
+            
+
+
+
+        </div>
+        <div class="gridItem1"> <a href="https://editor.p5js.org/Justplayingwithx/sketches/qYX8jYn12"><img
+                    src="https://via.placeholder.com/300" /></a>
+            <p>trex runner</p>
+        </div>
+        <div class="gridItem1"> <a href="#"><img src="https://via.placeholder.com/300" /></a>
+            <p>angry birds game</p>
+        </div>
+
+        <div class="gridItem1"> <a href="#"><img src="https://via.placeholder.com/300" /></a>
+            <p>car racing game</p>
+        </div>
+
+        <div class="gridItem1">
+            <a href="#"><img src="https://via.placeholder.com/300" /></a>
+            <p>silicon valley challenge</p>
+
+        </div>
+
+
+    </div>
+   
+    
+
+
+    <div class = "footer">
+        <a href="https://www.twitter.com"><img src="twitterLogo.png" width=50 height=50 /></a>
+    </div>
+</body>
+
+<footer>
+    
+</footer>
+
+</html>
